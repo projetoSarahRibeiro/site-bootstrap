@@ -1,2 +1,2 @@
 # site-bootstrap
-site novo
+#
